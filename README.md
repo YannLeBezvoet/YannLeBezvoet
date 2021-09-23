@@ -8,9 +8,10 @@
 - 🌱 I’m currently learning C++ design pattern  
 - ❓ Ask me about anything related to Python, C++ and regex  
 <br/>  
+  
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
 
+<table><tr><td valign="top" width="50%">
 ### Language  
 
 <div align="center">  
@@ -31,12 +32,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-  
 </div>
 
 </td></tr></table>  
