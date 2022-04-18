@@ -4,7 +4,7 @@
   
 <br/>  
 
-- 🔭 I’m currently working on [LazyNeticien](https://github.com/YannLeBezvoet/LazyNeticien)  
+- 🔭 I’m currently working on [Le C++ pour les pingouins](https://github.com/YannLeBezvoet/C-PourPingouin)  
 - 🌱 I’m currently learning C++ design pattern  
 - ❓ Ask me about anything related to Python, C++ and regex  
 <br/>  
