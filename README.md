@@ -4,7 +4,7 @@
   
 <br/>  
 
-- 🔭 I’m currently working on [SkibidibidiPython]([https://github.com/YannLeBezvoet/SkibidibidiPy])  
+- 🔭 I’m currently working on [SkibidibidiPython](https://github.com/YannLeBezvoet/SkibidibidiPy)  
 - 🌱 I’m currently learning C++ design pattern  
 - ❓ Ask me about anything related to Python, C++ and regex  
 <br/>  
