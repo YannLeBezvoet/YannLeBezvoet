@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on [SkibidibidiPython](https://github.com/YannLeBezvoet/SkibidibidiPy)  
 - 🌱 I’m currently learning C++ design pattern  
 - ❓ Ask me about anything related to Python, C++ and regex
+- 👀 Influenceur LinkedIn à en devenir
 - 😄 Pronouns: where/exe
 <br/>  
   
