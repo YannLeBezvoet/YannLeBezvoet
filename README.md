@@ -4,7 +4,7 @@
   
 <br/>  
 
-- 🔭 I’m currently working on [SkibidibidiPython](https://github.com/YannLeBezvoet/SkibidibidiPy)  
+- 🔭 I’m currently working on [openGloryDays](https://github.com/YannLeBezvoet/openGloryDays)  
 - 🌱 I’m currently webrtc
 - ❓ Ask me about anything related to Python, C++ and regex
 - 😄 Pronouns: where/exe
